@@ -8,6 +8,7 @@
 }
 
 #bb1_child{
+    /* border: 1px solid black; */
     height: 60px;
 
 
@@ -26,9 +27,10 @@
 }
 
 #divB1{
-    padding: 5em;
+    padding-top: 5em;
+    padding-left: 1em;
+    padding-right: 1em;
     height: 500px;
-    border: 1px solid black;
 }
 #rowB1,#rowB2,#rowB3,#rowB4{
     padding: 1em;
@@ -59,6 +61,9 @@
     border: 1px solid green;
 }
 
+#colC1{
+    padding: .2rem;
+}
 
 
 /* #Bc10{
